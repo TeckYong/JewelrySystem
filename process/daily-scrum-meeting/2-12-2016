@@ -1,17 +1,20 @@
-Chan Chun Weng - He is developing a features that can helps the staff to filter customers based on their id, name, phone number 
-                 and home address.
+Chan Chun Weng - He had populated all the customers data into a list to the system that include customer name, customer id, customer 
+                 tel no, customer address from the query. And today he will create a buying operations for staff user so that as a staff 
+                 role, the staff can sell the products to selected customer. Didn't meet any problem.
 
 
 
 
 
-Yashua Daniel - He is developing a features that can let the staff to enter customer payment amount so that the staff can give the customer
-                back his balance if any for his purchases.
+Yashua Daniel - Yesterday he ran a few unit tests on features for payment module. Then today he will start designing the sub system of
+                payment module involving selling items. Didn't meet any problem so far.
 
 
 
 
 
 
-Tan Jun Lem  - He is developing a features that can let the staff to add a new customer in system so that their details are reusable 
-               for their next purchases.
+Tan Jun Lem  - He fixed the coding errors for the add new customer's form on yesterday. And now the system should able to add new customer
+               into the system. Jun Lem will start designing the system that would allow the staff update or edit the existing customer
+               details such as contact number, address and so on. The problem he met is currently in the system doesn't have any existing
+               customer details yet. So i would suggest him to key in some dummy data into the system and he can start debug,
