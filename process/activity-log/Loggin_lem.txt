@@ -1,0 +1,8 @@
+1/12/2016
+
+
+I discovered that the add new customer coding had some error and bugs, so I had did some research from the internet to solve the problem. The problem is I was typo and forgot about the specific code that is necessary.
+
+
+
+After I search from internet and try the coding that I have found, i use it to replace my old coding which is the error. Finally, I can solve my problem.
