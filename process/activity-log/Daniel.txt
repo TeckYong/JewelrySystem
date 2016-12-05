@@ -1,0 +1,8 @@
+What i did yesterday ?
+Yesterday i started creating the UI for the payment screens for the payment module
+
+What i am doing today ?
+Today I am starting to code in the functions and features for the payment screens
+
+What is blocking me ?
+Lacking knowledge on what information to store after transactions are made 
